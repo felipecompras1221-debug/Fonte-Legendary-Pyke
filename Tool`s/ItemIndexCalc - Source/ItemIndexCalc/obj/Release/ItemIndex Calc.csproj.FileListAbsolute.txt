@@ -1,0 +1,20 @@
+C:\Users\iuryf\OneDrive\Área de Trabalho\ItemIndexCalc\ItemIndexCalc\bin\Release\ItemIndex Calc.exe.config
+C:\Users\iuryf\OneDrive\Área de Trabalho\ItemIndexCalc\ItemIndexCalc\bin\Release\ItemIndex Calc.exe
+C:\Users\iuryf\OneDrive\Área de Trabalho\ItemIndexCalc\ItemIndexCalc\bin\Release\ItemIndex Calc.pdb
+C:\Users\iuryf\OneDrive\Área de Trabalho\ItemIndexCalc\ItemIndexCalc\obj\Release\ItemIndex Calc.csproj.AssemblyReference.cache
+C:\Users\iuryf\OneDrive\Área de Trabalho\ItemIndexCalc\ItemIndexCalc\obj\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\iuryf\OneDrive\Área de Trabalho\ItemIndexCalc\ItemIndexCalc\obj\Release\ItemIndexCalc.Properties.Resources.resources
+C:\Users\iuryf\OneDrive\Área de Trabalho\ItemIndexCalc\ItemIndexCalc\obj\Release\ItemIndex Calc.csproj.GenerateResource.cache
+C:\Users\iuryf\OneDrive\Área de Trabalho\ItemIndexCalc\ItemIndexCalc\obj\Release\ItemIndex Calc.csproj.CoreCompileInputs.cache
+C:\Users\iuryf\OneDrive\Área de Trabalho\ItemIndexCalc\ItemIndexCalc\obj\Release\ItemIndex Calc.exe
+C:\Users\iuryf\OneDrive\Área de Trabalho\ItemIndexCalc\ItemIndexCalc\obj\Release\ItemIndex Calc.pdb
+D:\ItemIndexCalc\ItemIndexCalc\bin\Release\ItemIndex Calc.exe.config
+D:\ItemIndexCalc\ItemIndexCalc\bin\Release\ItemIndex Calc.exe
+D:\ItemIndexCalc\ItemIndexCalc\bin\Release\ItemIndex Calc.pdb
+D:\ItemIndexCalc\ItemIndexCalc\obj\Release\ItemIndex Calc.csproj.AssemblyReference.cache
+D:\ItemIndexCalc\ItemIndexCalc\obj\Release\WindowsFormsApplication1.Form1.resources
+D:\ItemIndexCalc\ItemIndexCalc\obj\Release\ItemIndexCalc.Properties.Resources.resources
+D:\ItemIndexCalc\ItemIndexCalc\obj\Release\ItemIndex Calc.csproj.GenerateResource.cache
+D:\ItemIndexCalc\ItemIndexCalc\obj\Release\ItemIndex Calc.csproj.CoreCompileInputs.cache
+D:\ItemIndexCalc\ItemIndexCalc\obj\Release\ItemIndex Calc.exe
+D:\ItemIndexCalc\ItemIndexCalc\obj\Release\ItemIndex Calc.pdb

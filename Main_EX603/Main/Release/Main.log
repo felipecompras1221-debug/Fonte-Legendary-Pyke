@@ -1,0 +1,7 @@
+﻿  Layout.cpp
+     Creating library C:\Users\iuryf\OneDrive\Área de Trabalho\New folder\Main_EX603\Release\Main.lib and object C:\Users\iuryf\OneDrive\Área de Trabalho\New folder\Main_EX603\Release\Main.exp
+  Generating code
+  Finished generating code
+detours.lib(detours.obj) : warning LNK4099: PDB 'detours.pdb' was not found with 'detours.lib(detours.obj)' or at 'C:\Users\iuryf\OneDrive\Área de Trabalho\New folder\Main_EX603\Release\detours.pdb'; linking object as if no debug info
+detours.lib(disasm.obj) : warning LNK4099: PDB 'detours.pdb' was not found with 'detours.lib(disasm.obj)' or at 'C:\Users\iuryf\OneDrive\Área de Trabalho\New folder\Main_EX603\Release\detours.pdb'; linking object as if no debug info
+  Main.vcxproj -> C:\Users\iuryf\OneDrive\Área de Trabalho\New folder\Main_EX603\Release\Main.dll

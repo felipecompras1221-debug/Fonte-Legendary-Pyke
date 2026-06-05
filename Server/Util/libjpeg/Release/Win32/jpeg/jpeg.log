@@ -1,0 +1,105 @@
+﻿Build started 4/27/2021 12:43:34 AM.
+     1>Project "C:\Users\duong\OneDrive\Máy tính\Source Full\v6\Main_EX603\Main\libjpeg\jpeg.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /Ox /Oy /GT /GL /D WIN32 /D NDEBUG /D _LIB /D _CRT_SECURE_NO_WARNINGS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\Win32\jpeg\\" /Fd"Release\Win32\jpeg\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt jaricom.c jcapimin.c jcapistd.c jcarith.c jccoefct.c jccolor.c jcdctmgr.c jchuff.c jcinit.c jcmainct.c jcmarker.c jcmaster.c jcomapi.c jcparam.c jcprepct.c jcsample.c jctrans.c jdapimin.c jdapistd.c jdarith.c jdatadst.c jdatasrc.c jdcoefct.c jdcolor.c jddctmgr.c jdhuff.c jdinput.c jdmainct.c jdmarker.c jdmaster.c jdmerge.c jdpostct.c jdsample.c jdtrans.c jerror.c jfdctflt.c jfdctfst.c jfdctint.c jidctflt.c jidctfst.c jidctint.c jmemmgr.c jmemnobs.c jquant1.c jquant2.c jutils.c
+         jaricom.c
+         jcapimin.c
+         jcapistd.c
+         jcarith.c
+         jccoefct.c
+         jccolor.c
+         jcdctmgr.c
+         jchuff.c
+         jcinit.c
+         jcmainct.c
+         jcmarker.c
+         jcmaster.c
+         jcomapi.c
+         jcparam.c
+         jcprepct.c
+         jcsample.c
+         jctrans.c
+         jdapimin.c
+         jdapistd.c
+         jdarith.c
+         Compiling...
+         jdatadst.c
+         jdatasrc.c
+         jdcoefct.c
+         jdcolor.c
+         jddctmgr.c
+         jdhuff.c
+         jdinput.c
+         jdmainct.c
+         jdmarker.c
+         jdmaster.c
+         jdmerge.c
+         jdpostct.c
+         jdsample.c
+         jdtrans.c
+         jerror.c
+         jfdctflt.c
+         jfdctfst.c
+         jfdctint.c
+         jidctflt.c
+         jidctfst.c
+         Compiling...
+         jidctint.c
+         jmemmgr.c
+         jmemnobs.c
+         jquant1.c
+         jquant2.c
+         jutils.c
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\Lib.exe /OUT:"C:\Users\duong\OneDrive\Máy tính\Source Full\v6\Main_EX603\Main\libjpeg\Release\Win32\jpeg.lib" /NOLOGO /LTCG Release\Win32\jpeg\jaricom.obj
+         Release\Win32\jpeg\jcapimin.obj
+         Release\Win32\jpeg\jcapistd.obj
+         Release\Win32\jpeg\jcarith.obj
+         Release\Win32\jpeg\jccoefct.obj
+         Release\Win32\jpeg\jccolor.obj
+         Release\Win32\jpeg\jcdctmgr.obj
+         Release\Win32\jpeg\jchuff.obj
+         Release\Win32\jpeg\jcinit.obj
+         Release\Win32\jpeg\jcmainct.obj
+         Release\Win32\jpeg\jcmarker.obj
+         Release\Win32\jpeg\jcmaster.obj
+         Release\Win32\jpeg\jcomapi.obj
+         Release\Win32\jpeg\jcparam.obj
+         Release\Win32\jpeg\jcprepct.obj
+         Release\Win32\jpeg\jcsample.obj
+         Release\Win32\jpeg\jctrans.obj
+         Release\Win32\jpeg\jdapimin.obj
+         Release\Win32\jpeg\jdapistd.obj
+         Release\Win32\jpeg\jdarith.obj
+         Release\Win32\jpeg\jdatadst.obj
+         Release\Win32\jpeg\jdatasrc.obj
+         Release\Win32\jpeg\jdcoefct.obj
+         Release\Win32\jpeg\jdcolor.obj
+         Release\Win32\jpeg\jddctmgr.obj
+         Release\Win32\jpeg\jdhuff.obj
+         Release\Win32\jpeg\jdinput.obj
+         Release\Win32\jpeg\jdmainct.obj
+         Release\Win32\jpeg\jdmarker.obj
+         Release\Win32\jpeg\jdmaster.obj
+         Release\Win32\jpeg\jdmerge.obj
+         Release\Win32\jpeg\jdpostct.obj
+         Release\Win32\jpeg\jdsample.obj
+         Release\Win32\jpeg\jdtrans.obj
+         Release\Win32\jpeg\jerror.obj
+         Release\Win32\jpeg\jfdctflt.obj
+         Release\Win32\jpeg\jfdctfst.obj
+         Release\Win32\jpeg\jfdctint.obj
+         Release\Win32\jpeg\jidctflt.obj
+         Release\Win32\jpeg\jidctfst.obj
+         Release\Win32\jpeg\jidctint.obj
+         Release\Win32\jpeg\jmemmgr.obj
+         Release\Win32\jpeg\jmemnobs.obj
+         Release\Win32\jpeg\jquant1.obj
+         Release\Win32\jpeg\jquant2.obj
+         Release\Win32\jpeg\jutils.obj
+         jpeg.vcxproj -> C:\Users\duong\OneDrive\Máy tính\Source Full\v6\Main_EX603\Main\libjpeg\Release\Win32\jpeg.lib
+     1>Done Building Project "C:\Users\duong\OneDrive\Máy tính\Source Full\v6\Main_EX603\Main\libjpeg\jpeg.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.15

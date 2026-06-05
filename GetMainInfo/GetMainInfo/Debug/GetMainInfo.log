@@ -1,0 +1,35 @@
+﻿  stdafx.cpp
+  SmokeEffect.cpp
+  Monster.cpp
+  ModelEffect.cpp
+  MemScript.cpp
+  ItemValue.cpp
+  InfoLog.cpp
+  GetMainInfo.cpp
+  Fog.cpp
+  CustomWIngEffect.cpp
+  CustomWing.cpp
+  CustomPet.cpp
+  CustomNpcName.cpp
+  CustomMonster.cpp
+  CustomMessage.cpp
+  CustomJewel.cpp
+  CustomItemPosition.cpp
+  ItemManager.cpp
+  CustomPetEffect.cpp
+  CustomMonsterGlow.cpp
+  CustomMap.cpp
+  Generating Code...
+  Compiling...
+  CustomItem.cpp
+  CustomGloves.cpp
+  CustomEventTimeText.cpp
+  CustomEffectRemake.cpp
+  CustomEffectDynamic.cpp
+  CustomCrossBow.cpp
+  CustomCommandInfo.cpp
+  CustomCloak.cpp
+  CustomBuyVip.cpp
+  CCRC32.Cpp
+  Generating Code...
+  GetMainInfo.vcxproj -> D:\[ S-MuOnline ][U-SP][UP]\Source\GetMainInfo\Debug\GetMainInfo.exe

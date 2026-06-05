@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Processes>
+  <Process Run="true" Delay="1000" Path="C:\Windows\system32\notepad.exe" Parameters="" />
+</Processes>

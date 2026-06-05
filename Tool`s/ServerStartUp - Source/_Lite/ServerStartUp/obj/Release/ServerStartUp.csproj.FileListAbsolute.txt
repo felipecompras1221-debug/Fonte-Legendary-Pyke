@@ -1,0 +1,10 @@
+A:\_Project____\_MU___\_zTools\MU_Server_Start_Up\ServerStartUp\bin\Release\ServerStartUp.exe.config
+A:\_Project____\_MU___\_zTools\MU_Server_Start_Up\ServerStartUp\bin\Release\ServerStartUp.exe
+A:\_Project____\_MU___\_zTools\MU_Server_Start_Up\ServerStartUp\bin\Release\ServerStartUp.pdb
+A:\_Project____\_MU___\_zTools\MU_Server_Start_Up\ServerStartUp\obj\Release\ServerStartUp.FormMain.resources
+A:\_Project____\_MU___\_zTools\MU_Server_Start_Up\ServerStartUp\obj\Release\ServerStartUp.FormSettings.resources
+A:\_Project____\_MU___\_zTools\MU_Server_Start_Up\ServerStartUp\obj\Release\ServerStartUp.Properties.Resources.resources
+A:\_Project____\_MU___\_zTools\MU_Server_Start_Up\ServerStartUp\obj\Release\ServerStartUp.csproj.GenerateResource.cache
+A:\_Project____\_MU___\_zTools\MU_Server_Start_Up\ServerStartUp\obj\Release\ServerStartUp.csproj.CoreCompileInputs.cache
+A:\_Project____\_MU___\_zTools\MU_Server_Start_Up\ServerStartUp\obj\Release\ServerStartUp.exe
+A:\_Project____\_MU___\_zTools\MU_Server_Start_Up\ServerStartUp\obj\Release\ServerStartUp.pdb

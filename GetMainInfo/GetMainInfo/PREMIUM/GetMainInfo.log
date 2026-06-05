@@ -1,0 +1,36 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(299,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  stdafx.cpp
+  CCRC32.Cpp
+  CustomBuyVip.cpp
+  CustomCloak.cpp
+  CustomCommandInfo.cpp
+  CustomCrossBow.cpp
+  CustomEffectDynamic.cpp
+  CustomEffectRemake.cpp
+  CustomEventTimeText.cpp
+  CustomGloves.cpp
+  CustomItem.cpp
+  CustomMap.cpp
+  CustomMonsterGlow.cpp
+  CustomPetEffect.cpp
+  ItemManager.cpp
+  CustomItemPosition.cpp
+  CustomJewel.cpp
+  CustomMessage.cpp
+  CustomMonster.cpp
+  CustomNpcName.cpp
+  CustomPet.cpp
+  Compiling...
+  CustomWing.cpp
+  CustomWIngEffect.cpp
+  Fog.cpp
+  GetMainInfo.cpp
+  InfoLog.cpp
+  ItemValue.cpp
+  MemScript.cpp
+  ModelEffect.cpp
+  Monster.cpp
+  SmokeEffect.cpp
+  Generating code
+  Finished generating code
+  GetMainInfo.vcxproj -> D:\[ S-MuOnline ][SP][0]\Source\GetMainInfo\Release\GetMainInfo-Premium.exe

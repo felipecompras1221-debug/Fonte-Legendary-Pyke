@@ -1,0 +1,26 @@
+﻿  stdafx.cpp
+  Authenticate.cpp
+  BlackList.cpp
+  CCRC32.Cpp
+  ClientManager.cpp
+  CriticalSection.cpp
+  FileDownloadHTTP.cpp
+  FileDownloadURL.cpp
+  HackServer.cpp
+  HackServerProtocol.cpp
+  HidManager.cpp
+  IpManager.cpp
+  Log.cpp
+  MemScript.cpp
+  MiniDump.cpp
+  ProcessManager.cpp
+  Queue.cpp
+  ReadFiles.cpp
+  ServerDisplayer.cpp
+  ServerInfo.cpp
+  SocketManager.cpp
+  Compiling...
+  Util.cpp
+  Generating code
+  Finished generating code
+  HackServer.vcxproj -> C:\[ S-MuOnline ]\Source\GameGuard\GameGuard Server\Release\GameGuard.exe

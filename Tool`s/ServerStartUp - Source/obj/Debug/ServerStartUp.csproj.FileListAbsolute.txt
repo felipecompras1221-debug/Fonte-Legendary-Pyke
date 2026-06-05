@@ -1,0 +1,12 @@
+C:\Users\-SC0RP1ON-\Desktop\ServerStartUp\bin\Debug\ServerStartUp.exe.config
+C:\Users\-SC0RP1ON-\Desktop\ServerStartUp\bin\Debug\ServerStartUp.exe
+C:\Users\-SC0RP1ON-\Desktop\ServerStartUp\bin\Debug\ServerStartUp.pdb
+C:\Users\-SC0RP1ON-\Desktop\ServerStartUp\obj\Debug\ServerStartUp.csprojAssemblyReference.cache
+C:\Users\-SC0RP1ON-\Desktop\ServerStartUp\obj\Debug\ServerStartUp.Properties.Resources.resources
+C:\Users\-SC0RP1ON-\Desktop\ServerStartUp\obj\Debug\ServerStartUp.bor_FAbout.resources
+C:\Users\-SC0RP1ON-\Desktop\ServerStartUp\obj\Debug\ServerStartUp.bor_FMain.resources
+C:\Users\-SC0RP1ON-\Desktop\ServerStartUp\obj\Debug\ServerStartUp.bor_FSettings.resources
+C:\Users\-SC0RP1ON-\Desktop\ServerStartUp\obj\Debug\ServerStartUp.csproj.GenerateResource.cache
+C:\Users\-SC0RP1ON-\Desktop\ServerStartUp\obj\Debug\ServerStartUp.csproj.CoreCompileInputs.cache
+C:\Users\-SC0RP1ON-\Desktop\ServerStartUp\obj\Debug\ServerStartUp.exe
+C:\Users\-SC0RP1ON-\Desktop\ServerStartUp\obj\Debug\ServerStartUp.pdb

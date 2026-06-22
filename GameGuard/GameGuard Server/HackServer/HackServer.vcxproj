@@ -99,7 +99,7 @@
     <ClInclude Include="ProcessManager.h" />
     <ClInclude Include="Queue.h" />
     <ClInclude Include="ReadFiles.h" />
-    <ClInclude Include="Resource.h" />
+    <ClInclude Include="resource.h" />
     <ClInclude Include="ServerDisplayer.h" />
     <ClInclude Include="ServerInfo.h" />
     <ClInclude Include="SocketManager.h" />

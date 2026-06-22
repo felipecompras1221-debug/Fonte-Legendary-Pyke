@@ -75,6 +75,9 @@
     <ClInclude Include="JCRendernoItemGlow.h">
       <Filter>Source Files\RenderEffect</Filter>
     </ClInclude>
+    <ClInclude Include="ItemTooltip.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -118,6 +121,9 @@
     </ClCompile>
     <ClCompile Include="JCRendernoItemGlow.cpp">
       <Filter>Source Files\RenderEffect</Filter>
+    </ClCompile>
+    <ClCompile Include="ItemTooltip.cpp">
+      <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

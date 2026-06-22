@@ -164,7 +164,7 @@
     <ClInclude Include="Protect.h" />
     <ClInclude Include="QueryManager.h" />
     <ClInclude Include="Queue.h" />
-    <ClInclude Include="Resource.h" />
+    <ClInclude Include="resource.h" />
     <ClInclude Include="ServerDisplayer.h" />
     <ClInclude Include="ServerManager.h" />
     <ClInclude Include="SocketManager.h" />

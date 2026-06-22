@@ -381,7 +381,7 @@
     <ClInclude Include="EventHideAndSeek.h" />
     <ClInclude Include="EventInventory.h" />
     <ClInclude Include="EventKillAll.h" />
-    <ClInclude Include="EventPvp.h" />
+    <ClInclude Include="EventPvP.h" />
     <ClInclude Include="EventQuickly.h" />
     <ClInclude Include="EventRunAndCatch.h" />
     <ClInclude Include="EventRussianRoulette.h" />
@@ -535,10 +535,10 @@
     <ClInclude Include="RandomManager.h" />
     <ClInclude Include="ReadScript2.h" />
     <ClInclude Include="Reconnect.h" />
-    <ClInclude Include="ReiDoMu.h" />
+    <ClInclude Include="ReiDoMU.h" />
     <ClInclude Include="ResetSystem.h" />
     <ClInclude Include="ResetTable.h" />
-    <ClInclude Include="Resource.h" />
+    <ClInclude Include="resource.h" />
     <ClInclude Include="RespawnLocation.h" />
     <ClInclude Include="RewardSystem.h" />
     <ClInclude Include="RuudTokenSellTemplate.h" />
@@ -809,7 +809,7 @@
     <ClCompile Include="RaklionUtil.cpp" />
     <ClCompile Include="RandomManager.cpp" />
     <ClCompile Include="Reconnect.cpp" />
-    <ClCompile Include="ReiDoMu.cpp" />
+    <ClCompile Include="ReiDoMU.cpp" />
     <ClCompile Include="ResetSystem.cpp" />
     <ClCompile Include="ResetTable.cpp" />
     <ClCompile Include="RespawnLocation.cpp" />

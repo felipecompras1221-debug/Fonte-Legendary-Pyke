@@ -184,7 +184,7 @@
     <ClInclude Include="QuestWorld.h" />
     <ClInclude Include="Queue.h" />
     <ClInclude Include="ReiDoMU.h" />
-    <ClInclude Include="Resource.h" />
+    <ClInclude Include="resource.h" />
     <ClInclude Include="ServerDisplayer.h" />
     <ClInclude Include="ServerManager.h" />
     <ClInclude Include="SocketManager.h" />

@@ -1026,7 +1026,6 @@ echo: &gt;&gt; adhoc.cpp.copied </Command>
     <ClInclude Include="dh2.h" />
     <ClInclude Include="dmac.h" />
     <ClInclude Include="dsa.h" />
-    <ClInclude Include="dword.h" />
     <ClInclude Include="eax.h" />
     <ClInclude Include="ec2n.h" />
     <ClInclude Include="eccrypto.h" />

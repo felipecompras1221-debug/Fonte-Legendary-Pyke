@@ -87,7 +87,7 @@ void cRenderMesh::Load(char* path) // OK
 
 void cRenderMesh::SetInfo(RENDER_MESH info) // OK
 {
-	if(info.Index < 0 || info.Index >= MAX_CUSTOPETEFFECT)
+	if(info.Index < 0 || info.Index >= MAX_RENDER_MESH)
 	{
 		return;
 	}

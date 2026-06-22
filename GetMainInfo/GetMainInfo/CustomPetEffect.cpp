@@ -93,7 +93,7 @@ void cCEffectPet::Load(char* path) // OK
 
 void cCEffectPet::SetInfo(PET_EFFECT_CUSTOM info) // OK
 {
-	if(info.Index < 0 || info.Index >= MAX_CUSTOPETEFFECT)
+	if(info.Index < 0 || info.Index >= max_ceffect)
 	{
 		return;
 	}

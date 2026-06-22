@@ -52,10 +52,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="ReadMe.txt" />
-    <None Include="maininfo.ico">
-      <Filter>Resource Files</Filter>
-    </None>
-    <None Include="icon1.ico">
+    <None Include="GetMainInfo.ico">
       <Filter>Resource Files</Filter>
     </None>
   </ItemGroup>
@@ -147,6 +144,15 @@
     <ClInclude Include="CustomPetEffect.h">
       <Filter>Source Files\PetEffect</Filter>
     </ClInclude>
+    <ClInclude Include="CustomMap.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CustomMonsterGlow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Monster.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -232,6 +238,15 @@
     </ClCompile>
     <ClCompile Include="CustomPetEffect.cpp">
       <Filter>Source Files\PetEffect</Filter>
+    </ClCompile>
+    <ClCompile Include="CustomMap.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CustomMonsterGlow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Monster.cpp">
+      <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

@@ -55,13 +55,13 @@
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='PREMIUM|Win32'">
     <LinkIncremental>false</LinkIncremental>
-    <OutDir>$(SolutionDir)Release</OutDir>
+    <OutDir>$(SolutionDir)Release\</OutDir>
     <TargetName>$(ProjectName)-Premium</TargetName>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='FREE|Win32'">
     <LinkIncremental>false</LinkIncremental>
     <TargetName>$(ProjectName)-Free</TargetName>
-    <OutDir>$(SolutionDir)Release</OutDir>
+    <OutDir>$(SolutionDir)Release\</OutDir>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>

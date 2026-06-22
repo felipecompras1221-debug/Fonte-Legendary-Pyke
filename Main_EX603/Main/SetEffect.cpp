@@ -54,24 +54,24 @@ void cCSetEffect::RenderPartObjectBody(int a1, int a2, int a3, float a4, int a5)
 			{
 				Vector(it->ColorR, it->ColorG, it->ColorB, Color);
 				Vector( it->JoinY, it->JoinZ, it->JoinX, WorldPos);
-				TransformPosition(a1, v759, WorldPos, Bone, 1);
+				SetTransformPosition(a1, v759, WorldPos, Bone, 1);
 				if (it->EffectIndex == 0)
 				{
-					CreateSprite(it->EffectCode, Bone, it->EffectSize, Color, a2, it->EffectSide, 0);
+					SetCreateSprite(it->EffectCode, Bone, it->EffectSize, Color, a2, it->EffectSide, 0);
 				}
 				else if (it->EffectIndex == 1)
 				{
-					CreateParticle2(it->EffectCode, Bone, a2 + 264, Color, it->EffectType, it->EffectSize, 0);
+					SetCreateParticle2(it->EffectCode, Bone, a2 + 264, Color, it->EffectType, it->EffectSize, 0);
 				}
 				else if(it->EffectIndex == 2)
 				{
-					CreateEffect(it->EffectCode, a2 + 252, a2 + 264, Color, 3, a2, -1, 0, 0, 0, 0.0, -1);//<<Efecto Skill
+					SetCreateEffect(it->EffectCode, a2 + 252, a2 + 264, Color, 3, a2, -1, 0, 0, 0, 0.0, -1);//<<Efecto Skill
 				}
 			}
 		}
 	}
 	
-	RenderPartObjectBodyR(a1, a2, a3, a4, a5);
+	SetRenderPartObjectBodyR(a1, a2, a3, a4, a5);
 }
 
 void cCSetEffect::Init()

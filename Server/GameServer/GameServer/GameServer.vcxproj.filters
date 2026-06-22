@@ -96,7 +96,7 @@
     <ClInclude Include="stdafx.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Resource.h">
+    <ClInclude Include="resource.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="GameServer.h">
@@ -681,7 +681,7 @@
     <ClInclude Include="EventKillAll.h">
       <Filter>Header Files\Events</Filter>
     </ClInclude>
-    <ClInclude Include="EventPvp.h">
+    <ClInclude Include="EventPvP.h">
       <Filter>Header Files\Events</Filter>
     </ClInclude>
     <ClInclude Include="EventQuickly.h">
@@ -771,7 +771,7 @@
     <ClInclude Include="RaklionUtil.h">
       <Filter>Header Files\Events</Filter>
     </ClInclude>
-    <ClInclude Include="ReiDoMu.h">
+    <ClInclude Include="ReiDoMU.h">
       <Filter>Header Files\Events</Filter>
     </ClInclude>
     <ClInclude Include="EventTvT.h">
@@ -1586,7 +1586,7 @@
     <ClCompile Include="RaklionUtil.cpp">
       <Filter>Source Files\Events</Filter>
     </ClCompile>
-    <ClCompile Include="ReiDoMu.cpp">
+    <ClCompile Include="ReiDoMU.cpp">
       <Filter>Source Files\Events</Filter>
     </ClCompile>
     <ClCompile Include="EventTvT.cpp">

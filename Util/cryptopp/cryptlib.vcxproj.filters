@@ -469,9 +469,6 @@
     <ClInclude Include="dsa.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="dword.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="eax.h">
       <Filter>Header Files</Filter>
     </ClInclude>

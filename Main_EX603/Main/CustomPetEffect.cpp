@@ -32,7 +32,7 @@ void cCEffectPet::Load(PET_EFFECT_CUSTOM * info)
 
 void cCEffectPet::addEffect(int a1, int a2, int a3, int a4) // OK
 {
-	Draw_RenderObjectR(a1, a2, a3, a4);
+	PetDrawRenderObjectR(a1, a2, a3, a4);
 	int v42; // eax@182
 	vec3_t Bone;
 	vec3_t Color;
@@ -80,7 +80,7 @@ void cCEffectPet::addEffect(int a1, int a2, int a3, int a4) // OK
 					Vector(1.0, 1.0, 1.0, Color);//<<Color
 					Vector( 0.0, 0.0, 0.0, WorldPos);//<<Posicion a partir del Joint
 
-					TransformPosition((int)v397, Joint( 1 ), WorldPos, Bone, 0);
+					PetTransformPosition((int)v397, PetJoint( 1 ), WorldPos, Bone, 0);
 
 					if ( *(float *)(a1 + 140) < 2.0 )
 						*(DWORD *)(a1 + 64) = 100;
@@ -93,7 +93,7 @@ void cCEffectPet::addEffect(int a1, int a2, int a3, int a4) // OK
 					}
 
 					//	sub_6D8980(32226, a1, 0);
-					//CreateEffect(297,(int) Bone, a1 + 264, Color, 0, a1, -1, 0, 0, 0, 0.0, -1);
+					//PetCreateEffect(297,(int) Bone, a1 + 264, Color, 0, a1, -1, 0, 0, 0, 0.0, -1);
 
 					//sub_6D6C20(133, a1, 0);
 
@@ -113,19 +113,19 @@ void cCEffectPet::addEffect(int a1, int a2, int a3, int a4) // OK
 					Color);//<<Color
 				Vector( 0.0, 0.0, 0.0, WorldPos);//<<Posicion a partir del Joint
 
-				TransformPosition((int)v397, Joint(it->Join), WorldPos, Bone, 0);
+				PetTransformPosition((int)v397, PetJoint(it->Join), WorldPos, Bone, 0);
 
 				int v25 = timeGetTime() % 0x50;
 
 				if(it->TypeEffect == 1)
 				{
-					CreateParticle2(it->EffectCode,
+					PetCreateParticle2(it->EffectCode,
 					Bone, a1 + 264, Color, 0.0,
 					it->EffectSize, 1);//<<Dinamico
 				}
 				else if(it->TypeEffect == 2)
 				{
-					CreateSprite(it->EffectCode,
+					PetCreateSprite(it->EffectCode,
 					Bone, it->EffectSize,
 					Color, a1, 0.0, 0);//<<Estatico
 				}
@@ -133,7 +133,7 @@ void cCEffectPet::addEffect(int a1, int a2, int a3, int a4) // OK
 				{
 					if ( v25 >= 0 && v25 < it->LargeRand )//<<Cantidad de particulas en Efecto Skill
 					{
-						CreateEffect(it->EffectCode,(int) Bone, a1 + 264, Color, 3, a1, -1, 0, 0, 0, 0.0, -1);//<<Efecto Skill
+						PetCreateEffect(it->EffectCode,(int) Bone, a1 + 264, Color, 3, a1, -1, 0, 0, 0, 0.0, -1);//<<Efecto Skill
 					}
 				}
 			}
